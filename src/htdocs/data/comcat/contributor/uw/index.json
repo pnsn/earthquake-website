@@ -5,7 +5,7 @@
   "aliases": [
     "pnsn"
   ],
-  "email": "seis_info@ess.washington.edu",
+  "email": "pnsn@uw.edu",
   "address": {
     "org": "University of Washington, Department of Earth and Space Sciences",
     "street-address": "Box 351310",
@@ -27,7 +27,7 @@
       "value": "+1-206-543-1190"
     },
     {
-      "type": "Fax",
+      "type": "Fax (department)",
       "value": "+1-206-543-0489"
     }
   ]
